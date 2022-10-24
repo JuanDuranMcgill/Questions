@@ -1,0 +1,1364 @@
+# sent_id = 1.0
+# text = Compton scattering, discovered by Arthur Holly Compton, is the scattering of a photon by a charged particle, usually an electron.
+1	Compton	Compton	PROPN	NNP	Number=Sing	2	compound	_	_
+2	scattering	scattering	NOUN	NN	Number=Sing	12	nsubj	_	_
+3	,	,	PUNCT	,	_	4	punct	_	_
+4	discovered	discover	VERB	VBN	Tense=Past|VerbForm=Part	2	acl	_	_
+5	by	by	ADP	IN	_	6	case	_	_
+6	Arthur	Arthur	PROPN	NNP	Number=Sing	4	obl	_	_
+7	Holly	Holly	PROPN	NNP	Number=Sing	6	flat	_	_
+8	Compton	Compton	PROPN	NNP	Number=Sing	6	flat	_	_
+9	,	,	PUNCT	,	_	2	punct	_	_
+10	is	be	AUX	VBZ	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	12	cop	_	_
+11	the	the	DET	DT	Definite=Def|PronType=Art	12	det	_	_
+12	scattering	scattering	NOUN	NN	Number=Sing	0	root	_	_
+13	of	of	ADP	IN	_	15	case	_	_
+14	a	a	DET	DT	Definite=Ind|PronType=Art	15	det	_	_
+15	photon	photon	NOUN	NN	Number=Sing	12	nmod	_	_
+16	by	by	ADP	IN	_	19	case	_	_
+17	a	a	DET	DT	Definite=Ind|PronType=Art	19	det	_	_
+18	charged	charge	VERB	VBN	Tense=Past|VerbForm=Part	19	amod	_	_
+19	particle	particle	NOUN	NN	Number=Sing	15	nmod	_	_
+20	,	,	PUNCT	,	_	19	punct	_	_
+21	usually	usually	ADV	RB	_	23	advmod	_	_
+22	an	a	DET	DT	Definite=Ind|PronType=Art	23	det	_	_
+23	electron	electron	NOUN	NN	Number=Sing	19	appos	_	_
+24	.	.	PUNCT	.	_	12	punct	_	_
+
+# sent_id = 2.0
+# text = Part of the energy of the photon is transferred to the recoiling electron.
+1	Part	part	NOUN	NN	Number=Sing	9	nsubj:pass	_	_
+2	of	of	ADP	IN	_	4	case	_	_
+3	the	the	DET	DT	Definite=Def|PronType=Art	4	det	_	_
+4	energy	energy	NOUN	NN	Number=Sing	1	nmod	_	_
+5	of	of	ADP	IN	_	7	case	_	_
+6	the	the	DET	DT	Definite=Def|PronType=Art	7	det	_	_
+7	photon	photon	NOUN	NN	Number=Sing	4	nmod	_	_
+8	is	be	AUX	VBZ	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	9	aux:pass	_	_
+9	transferred	transfer	VERB	VBN	Tense=Past|VerbForm=Part|Voice=Pass	0	root	_	_
+10	to	to	ADP	IN	_	13	case	_	_
+11	the	the	DET	DT	Definite=Def|PronType=Art	13	det	_	_
+12	recoiling	recoil	VERB	VBG	VerbForm=Ger	13	amod	_	_
+13	electron	electron	NOUN	NN	Number=Sing	9	obl	_	_
+14	.	.	PUNCT	.	_	9	punct	_	_
+
+# sent_id = 3.0
+# text = Inverse Compton scattering occurs when a charged particle transfers part of its energy to a photon.
+1	Inverse	Inverse	PROPN	NNP	Number=Sing	3	compound	_	_
+2	Compton	Compton	PROPN	NNP	Number=Sing	3	compound	_	_
+3	scattering	scattering	NOUN	NN	Number=Sing	4	nsubj	_	_
+4	occurs	occur	VERB	VBZ	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	_
+5	when	when	SCONJ	WRB	PronType=Int	9	mark	_	_
+6	a	a	DET	DT	Definite=Ind|PronType=Art	8	det	_	_
+7	charged	charge	VERB	VBN	Tense=Past|VerbForm=Part	8	amod	_	_
+8	particle	particle	NOUN	NN	Number=Sing	9	nsubj	_	_
+9	transfers	transfer	VERB	VBZ	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	4	advcl	_	_
+10	part	part	NOUN	NN	Number=Sing	9	obj	_	_
+11	of	of	ADP	IN	_	13	case	_	_
+12	its	its	PRON	PRP$	Gender=Neut|Number=Sing|Person=3|Poss=Yes|PronType=Prs	13	nmod:poss	_	_
+13	energy	energy	NOUN	NN	Number=Sing	10	nmod	_	_
+14	to	to	ADP	IN	_	16	case	_	_
+15	a	a	DET	DT	Definite=Ind|PronType=Art	16	det	_	_
+16	photon	photon	NOUN	NN	Number=Sing	9	obl	_	_
+17	.	.	PUNCT	.	_	4	punct	_	_
+
+# sent_id = 4.0
+# text = QFT is used in particle physics to construct physical models of subatomic particles and in condensed matter physics to construct models of quasiparticles.
+1	QFT	QFT	PROPN	NNP	Number=Sing	3	nsubj:pass	_	_
+2	is	be	AUX	VBZ	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	3	aux:pass	_	_
+3	used	use	VERB	VBN	Tense=Past|VerbForm=Part|Voice=Pass	0	root	_	_
+4	in	in	ADP	IN	_	6	case	_	_
+5	particle	particle	NOUN	NN	Number=Sing	6	compound	_	_
+6	physics	physics	NOUN	NN	Number=Sing	3	obl	_	_
+7	to	to	PART	TO	_	8	mark	_	_
+8	construct	construct	VERB	VB	VerbForm=Inf	3	advcl	_	_
+9	physical	physical	ADJ	JJ	Degree=Pos	10	amod	_	_
+10	models	model	NOUN	NNS	Number=Plur	8	obj	_	_
+11	of	of	ADP	IN	_	13	case	_	_
+12	subatomic	subatomic	ADJ	JJ	Degree=Pos	13	amod	_	_
+13	particles	particle	NOUN	NNS	Number=Plur	10	nmod	_	_
+14	and	and	CCONJ	CC	_	18	cc	_	_
+15	in	in	ADP	IN	_	18	case	_	_
+16	condensed	condense	VERB	VBN	Tense=Past|VerbForm=Part	18	amod	_	_
+17	matter	matter	NOUN	NN	Number=Sing	18	compound	_	_
+18	physics	physics	NOUN	NN	Number=Sing	13	conj	_	_
+19	to	to	PART	TO	_	20	mark	_	_
+20	construct	construct	VERB	VB	VerbForm=Inf	8	advcl	_	_
+21	models	model	NOUN	NNS	Number=Plur	20	obj	_	_
+22	of	of	ADP	IN	_	23	case	_	_
+23	quasiparticles	quasiparticle	NOUN	NNS	Number=Plur	21	nmod	_	_
+24	.	.	PUNCT	.	_	3	punct	_	_
+
+# sent_id = 5.0
+# text = QFT treats particles as excited states  of their underlying quantum fields, which are more fundamental than the particles.
+1	QFT	QFT	PROPN	NNP	Number=Sing	2	nsubj	_	_
+2	treats	treat	VERB	VBZ	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	_
+3	particles	particle	NOUN	NNS	Number=Plur	2	obj	_	_
+4	as	as	ADP	IN	_	6	case	_	_
+5	excited	excited	ADJ	JJ	Degree=Pos	6	amod	_	_
+6	states	state	NOUN	NNS	Number=Plur	2	obl	_	_
+7	of	of	ADP	IN	_	11	case	_	_
+8	their	they	PRON	PRP$	Number=Plur|Person=3|Poss=Yes|PronType=Prs	11	nmod:poss	_	_
+9	underlying	underlying	ADJ	JJ	Degree=Pos	11	amod	_	_
+10	quantum	quantum	NOUN	NN	Number=Sing	11	compound	_	_
+11	fields	field	NOUN	NNS	Number=Plur	6	nmod	_	_
+12	,	,	PUNCT	,	_	16	punct	_	_
+13	which	which	PRON	WDT	PronType=Rel	16	nsubj	_	_
+14	are	be	AUX	VBP	Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin	16	cop	_	_
+15	more	more	ADV	RBR	Degree=Cmp	16	advmod	_	_
+16	fundamental	fundamental	ADJ	JJ	Degree=Pos	11	acl:relcl	_	_
+17	than	than	ADP	IN	_	19	case	_	_
+18	the	the	DET	DT	Definite=Def|PronType=Art	19	det	_	_
+19	particles	particle	NOUN	NNS	Number=Plur	16	obl	_	_
+20	.	.	PUNCT	.	_	2	punct	_	_
+
+# sent_id = 6.0
+# text = Interactions between particles are described by interaction terms in the Lagrangian involving their corresponding quantum fields.
+1	Interactions	interaction	NOUN	NNS	Number=Plur	5	nsubj:pass	_	_
+2	between	between	ADP	IN	_	3	case	_	_
+3	particles	particle	NOUN	NNS	Number=Plur	1	nmod	_	_
+4	are	be	AUX	VBP	Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin	5	aux:pass	_	_
+5	described	describe	VERB	VBN	Tense=Past|VerbForm=Part|Voice=Pass	0	root	_	_
+6	by	by	ADP	IN	_	8	case	_	_
+7	interaction	interaction	NOUN	NN	Number=Sing	8	compound	_	_
+8	terms	term	NOUN	NNS	Number=Plur	5	obl	_	_
+9	in	in	ADP	IN	_	11	case	_	_
+10	the	the	DET	DT	Definite=Def|PronType=Art	11	det	_	_
+11	Lagrangian	Lagrangian	NOUN	NN	Number=Sing	8	nmod	_	_
+12	involving	involve	VERB	VBG	VerbForm=Ger	11	acl	_	_
+13	their	they	PRON	PRP$	Number=Plur|Person=3|Poss=Yes|PronType=Prs	16	nmod:poss	_	_
+14	corresponding	corresponding	VERB	VBG	VerbForm=Ger	16	amod	_	_
+15	quantum	quantum	NOUN	NN	Number=Sing	16	compound	_	_
+16	fields	field	NOUN	NNS	Number=Plur	12	obj	_	_
+17	.	.	PUNCT	.	_	5	punct	_	_
+
+# sent_id = 7.0
+# text = Each interaction can be visually represented by Feynman diagrams according to perturbation theory in quantum mechanics.
+1	Each	each	DET	DT	_	2	det	_	_
+2	interaction	interaction	NOUN	NN	Number=Sing	6	nsubj:pass	_	_
+3	can	can	AUX	MD	VerbForm=Fin	6	aux	_	_
+4	be	be	AUX	VB	VerbForm=Inf	6	aux:pass	_	_
+5	visually	visually	ADV	RB	_	6	advmod	_	_
+6	represented	represent	VERB	VBN	Tense=Past|VerbForm=Part|Voice=Pass	0	root	_	_
+7	by	by	ADP	IN	_	9	case	_	_
+8	Feynman	Feynman	PROPN	NNP	Number=Sing	9	compound	_	_
+9	diagrams	diagram	NOUN	NNS	Number=Plur	6	obl	_	_
+10	according	accord	VERB	VBG	VerbForm=Ger	13	case	_	_
+11	to	to	ADP	IN	_	10	fixed	_	_
+12	perturbation	perturbation	NOUN	NN	Number=Sing	13	compound	_	_
+13	theory	theory	NOUN	NN	Number=Sing	6	obl	_	_
+14	in	in	ADP	IN	_	16	case	_	_
+15	quantum	quantum	NOUN	NN	Number=Sing	16	compound	_	_
+16	mechanics	mechanic	NOUN	NN	Number=Sing	13	nmod	_	_
+17	.	.	PUNCT	.	_	6	punct	_	_
+
+# sent_id = 8.0
+# text = Auroras are the result of disturbances in the magnetosphere caused by solar wind.
+1	Auroras	aurora	NOUN	NNS	Number=Plur	4	nsubj	_	_
+2	are	be	AUX	VBP	Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin	4	cop	_	_
+3	the	the	DET	DT	Definite=Def|PronType=Art	4	det	_	_
+4	result	result	NOUN	NN	Number=Sing	0	root	_	_
+5	of	of	ADP	IN	_	6	case	_	_
+6	disturbances	disturbance	NOUN	NNS	Number=Plur	4	nmod	_	_
+7	in	in	ADP	IN	_	9	case	_	_
+8	the	the	DET	DT	Definite=Def|PronType=Art	9	det	_	_
+9	magnetosphere	magnetosphere	NOUN	NN	Number=Sing	6	nmod	_	_
+10	caused	cause	VERB	VBN	Tense=Past|VerbForm=Part	9	acl	_	_
+11	by	by	ADP	IN	_	13	case	_	_
+12	solar	solar	ADJ	JJ	Degree=Pos	13	amod	_	_
+13	wind	wind	NOUN	NN	Number=Sing	10	obl:agent	_	_
+14	.	.	PUNCT	.	_	4	punct	_	_
+
+# sent_id = 9.0
+# text = The resulting ionization and excitation of atmospheric constituents emit light of varying color and complexity.
+1	The	the	DET	DT	Definite=Def|PronType=Art	3	det	_	_
+2	resulting	result	VERB	VBG	VerbForm=Ger	3	amod	_	_
+3	ionization	ionization	NOUN	NN	Number=Sing	9	nsubj	_	_
+4	and	and	CCONJ	CC	_	5	cc	_	_
+5	excitation	excitation	NOUN	NN	Number=Sing	3	conj	_	_
+6	of	of	ADP	IN	_	8	case	_	_
+7	atmospheric	atmospheric	ADJ	JJ	Degree=Pos	8	amod	_	_
+8	constituents	constituent	NOUN	NNS	Number=Plur	3	nmod	_	_
+9	emit	emit	VERB	VBP	Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	_
+10	light	light	NOUN	NN	Number=Sing	9	obj	_	_
+11	of	of	ADP	IN	_	13	case	_	_
+12	varying	vary	VERB	VBG	VerbForm=Ger	13	amod	_	_
+13	color	color	NOUN	NN	Number=Sing	10	nmod	_	_
+14	and	and	CCONJ	CC	_	15	cc	_	_
+15	complexity	complexity	NOUN	NN	Number=Sing	13	conj	_	_
+16	.	.	PUNCT	.	_	9	punct	_	_
+
+# sent_id = 10.0
+# text = The form of the aurora, occurring within bands around both polar regions, is also dependent on the amount of acceleration imparted to the precipitating particles.
+1	The	the	DET	DT	Definite=Def|PronType=Art	2	det	_	_
+2	form	form	NOUN	NN	Number=Sing	17	nsubj	_	_
+3	of	of	ADP	IN	_	5	case	_	_
+4	the	the	DET	DT	Definite=Def|PronType=Art	5	det	_	_
+5	aurora	aurora	NOUN	NN	Number=Sing	2	nmod	_	_
+6	,	,	PUNCT	,	_	7	punct	_	_
+7	occurring	occur	VERB	VBG	VerbForm=Ger	2	acl	_	_
+8	within	within	ADP	IN	_	9	case	_	_
+9	bands	band	NOUN	NNS	Number=Plur	7	obl	_	_
+10	around	around	ADP	IN	_	13	case	_	_
+11	both	both	DET	DT	_	13	det	_	_
+12	polar	polar	ADJ	JJ	Degree=Pos	13	amod	_	_
+13	regions	region	NOUN	NNS	Number=Plur	9	nmod	_	_
+14	,	,	PUNCT	,	_	2	punct	_	_
+15	is	be	AUX	VBZ	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	17	cop	_	_
+16	also	also	ADV	RB	_	17	advmod	_	_
+17	dependent	dependent	ADJ	JJ	Degree=Pos	0	root	_	_
+18	on	on	ADP	IN	_	20	case	_	_
+19	the	the	DET	DT	Definite=Def|PronType=Art	20	det	_	_
+20	amount	amount	NOUN	NN	Number=Sing	17	obl	_	_
+21	of	of	ADP	IN	_	22	case	_	_
+22	acceleration	acceleration	NOUN	NN	Number=Sing	20	nmod	_	_
+23	imparted	impart	VERB	VBN	Tense=Past|VerbForm=Part	22	acl	_	_
+24	to	to	ADP	IN	_	27	case	_	_
+25	the	the	DET	DT	Definite=Def|PronType=Art	27	det	_	_
+26	precipitating	precipitate	VERB	VBG	VerbForm=Ger	27	amod	_	_
+27	particles	particle	NOUN	NNS	Number=Plur	23	obl	_	_
+28	.	.	PUNCT	.	_	17	punct	_	_
+
+# sent_id = 11.0
+# text = Precipitating protons generally produce optical emissions as incident hydrogen atoms after gaining electrons from the atmosphere.
+1	Precipitating	precipitate	VERB	VBG	VerbForm=Ger	2	amod	_	_
+2	protons	proton	NOUN	NNS	Number=Plur	4	nsubj	_	_
+3	generally	generally	ADV	RB	_	4	advmod	_	_
+4	produce	produce	VERB	VB	Mood=Ind|Tense=Pres|VerbForm=Fin	0	root	_	_
+5	optical	optical	ADJ	JJ	Degree=Pos	6	amod	_	_
+6	emissions	emission	NOUN	NNS	Number=Plur	4	obj	_	_
+7	as	as	ADP	IN	_	10	case	_	_
+8	incident	incident	NOUN	NN	Number=Sing	10	compound	_	_
+9	hydrogen	hydrogen	NOUN	NN	Number=Sing	10	compound	_	_
+10	atoms	atom	NOUN	NNS	Number=Plur	6	nmod	_	_
+11	after	after	SCONJ	IN	_	12	mark	_	_
+12	gaining	gain	VERB	VBG	VerbForm=Ger	4	advcl	_	_
+13	electrons	electron	NOUN	NNS	Number=Plur	12	obj	_	_
+14	from	from	ADP	IN	_	16	case	_	_
+15	the	the	DET	DT	Definite=Def|PronType=Art	16	det	_	_
+16	atmosphere	atmosphere	NOUN	NN	Number=Sing	12	obl	_	_
+17	.	.	PUNCT	.	_	4	punct	_	_
+
+# sent_id = 12.0
+# text = Proton auroras are usually observed at lower latitudes.
+1	Proton	proton	NOUN	NN	Number=Sing	2	compound	_	_
+2	auroras	aurora	NOUN	NNS	Number=Plur	5	nsubj:pass	_	_
+3	are	be	AUX	VBP	Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin	5	aux:pass	_	_
+4	usually	usually	ADV	RB	_	5	advmod	_	_
+5	observed	observe	VERB	VBN	Tense=Past|VerbForm=Part|Voice=Pass	0	root	_	_
+6	at	at	ADP	IN	_	8	case	_	_
+7	lower	low	ADJ	JJR	Degree=Cmp	8	amod	_	_
+8	latitudes	latitudes	NOUN	NNS	Number=Plur	5	obl	_	_
+9	.	.	PUNCT	.	_	5	punct	_	_
+
+# sent_id = 13.0
+# text = Most of the planets in our solar system, some natural satellites, brown dwarfs, and even comets also host auroras.
+1	Most	most	ADJ	JJS	Degree=Sup	21	nsubj	_	_
+2	of	of	ADP	IN	_	4	case	_	_
+3	the	the	DET	DT	Definite=Def|PronType=Art	4	det	_	_
+4	planets	planet	NOUN	NNS	Number=Plur	1	nmod	_	_
+5	in	in	ADP	IN	_	8	case	_	_
+6	our	we	PRON	PRP$	Number=Plur|Person=1|Poss=Yes|PronType=Prs	8	nmod:poss	_	_
+7	solar	solar	ADJ	JJ	Degree=Pos	8	amod	_	_
+8	system	system	NOUN	NN	Number=Sing	4	nmod	_	_
+9	,	,	PUNCT	,	_	12	punct	_	_
+10	some	some	DET	DT	_	12	det	_	_
+11	natural	natural	ADJ	JJ	Degree=Pos	12	amod	_	_
+12	satellites	satellite	NOUN	NNS	Number=Plur	8	conj	_	_
+13	,	,	PUNCT	,	_	15	punct	_	_
+14	brown	brown	ADJ	JJ	Degree=Pos	15	amod	_	_
+15	dwarfs	dwarf	NOUN	NNS	Number=Plur	8	conj	_	_
+16	,	,	PUNCT	,	_	19	punct	_	_
+17	and	and	CCONJ	CC	_	19	cc	_	_
+18	even	even	ADV	RB	_	19	advmod	_	_
+19	comets	comet	NOUN	NNS	Number=Plur	8	conj	_	_
+20	also	also	ADV	RB	_	21	advmod	_	_
+21	host	host	VERB	VBP	Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	_
+22	auroras	aurora	NOUN	NNS	Number=Plur	21	obj	_	_
+23	.	.	PUNCT	.	_	21	punct	_	_
+
+# sent_id = 14.0
+# text = An atom with a closed shell of valence electrons  tends to be chemically inert.
+1	An	a	DET	DT	Definite=Ind|PronType=Art	2	det	_	_
+2	atom	atom	NOUN	NN	Number=Sing	10	nsubj	_	_
+3	with	with	ADP	IN	_	6	case	_	_
+4	a	a	DET	DT	Definite=Ind|PronType=Art	6	det	_	_
+5	closed	close	VERB	VBN	Tense=Past|VerbForm=Part	6	amod	_	_
+6	shell	shell	NOUN	NN	Number=Sing	2	nmod	_	_
+7	of	of	ADP	IN	_	9	case	_	_
+8	valence	valence	NOUN	NN	Number=Sing	9	compound	_	_
+9	electrons	electron	NOUN	NNS	Number=Plur	6	nmod	_	_
+10	tends	tend	VERB	VBZ	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	_
+11	to	to	PART	TO	_	14	mark	_	_
+12	be	be	AUX	VB	VerbForm=Inf	14	cop	_	_
+13	chemically	chemically	ADV	RB	_	14	advmod	_	_
+14	inert	inert	ADJ	JJ	Degree=Pos	10	xcomp	_	_
+15	.	.	PUNCT	.	_	10	punct	_	_
+
+# sent_id = 15.0
+# text = Atoms with one or two valence electrons more than a closed shell are highly reactive due to the relatively low energy to remove the extra valence electrons to form a positive ion.
+1	Atoms	atom	NOUN	NNS	Number=Plur	15	nsubj	_	_
+2	with	with	ADP	IN	_	7	case	_	_
+3	one	one	NUM	CD	NumType=Card	7	nummod	_	_
+4	or	or	CCONJ	CC	_	5	cc	_	_
+5	two	two	NUM	CD	NumType=Card	3	conj	_	_
+6	valence	valence	NOUN	NN	Number=Sing	7	compound	_	_
+7	electrons	electron	NOUN	NNS	Number=Plur	1	nmod	_	_
+8	more	more	ADJ	JJR	Degree=Cmp	7	amod	_	_
+9	than	than	ADP	IN	_	12	case	_	_
+10	a	a	DET	DT	Definite=Ind|PronType=Art	12	det	_	_
+11	closed	close	VERB	VBN	Tense=Past|VerbForm=Part	12	amod	_	_
+12	shell	shell	NOUN	NN	Number=Sing	8	obl	_	_
+13	are	be	AUX	VBP	Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin	15	cop	_	_
+14	highly	highly	ADV	RB	_	15	advmod	_	_
+15	reactive	reactive	ADJ	JJ	Degree=Pos	0	root	_	_
+16	due	due	ADP	IN	_	21	case	_	_
+17	to	to	ADP	IN	_	16	fixed	_	_
+18	the	the	DET	DT	Definite=Def|PronType=Art	21	det	_	_
+19	relatively	relatively	ADV	RB	_	20	advmod	_	_
+20	low	low	ADJ	JJ	Degree=Pos	21	amod	_	_
+21	energy	energy	NOUN	NN	Number=Sing	15	obl	_	_
+22	to	to	PART	TO	_	23	mark	_	_
+23	remove	remove	VERB	VB	VerbForm=Inf	15	advcl	_	_
+24	the	the	DET	DT	Definite=Def|PronType=Art	27	det	_	_
+25	extra	extra	ADJ	JJ	Degree=Pos	27	amod	_	_
+26	valence	valence	NOUN	NN	Number=Sing	27	compound	_	_
+27	electrons	electron	NOUN	NNS	Number=Plur	23	obj	_	_
+28	to	to	PART	TO	_	29	mark	_	_
+29	form	form	VERB	VB	VerbForm=Inf	23	advcl	_	_
+30	a	a	DET	DT	Definite=Ind|PronType=Art	32	det	_	_
+31	positive	positive	ADJ	JJ	Degree=Pos	32	amod	_	_
+32	ion	ion	NOUN	NN	Number=Sing	29	obj	_	_
+33	.	.	PUNCT	.	_	15	punct	_	_
+
+# sent_id = 16.0
+# text = An atom with one or two electrons less than a closed shell is reactive due to its tendency either to gain the missing valence electrons and form a negative ion, or else to share valence electrons and form a covalent bond.
+1	An	a	DET	DT	Definite=Ind|PronType=Art	2	det	_	_
+2	atom	atom	NOUN	NN	Number=Sing	14	nsubj	_	_
+3	with	with	ADP	IN	_	7	case	_	_
+4	one	one	NUM	CD	NumType=Card	7	nummod	_	_
+5	or	or	CCONJ	CC	_	6	cc	_	_
+6	two	two	NUM	CD	NumType=Card	4	conj	_	_
+7	electrons	electron	NOUN	NNS	Number=Plur	2	nmod	_	_
+8	less	less	ADJ	JJR	Degree=Cmp	7	amod	_	_
+9	than	than	ADP	IN	_	12	case	_	_
+10	a	a	DET	DT	Definite=Ind|PronType=Art	12	det	_	_
+11	closed	close	VERB	VBN	Tense=Past|VerbForm=Part	12	amod	_	_
+12	shell	shell	NOUN	NN	Number=Sing	8	obl	_	_
+13	is	be	AUX	VBZ	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	14	cop	_	_
+14	reactive	reactive	ADJ	JJ	Degree=Pos	0	root	_	_
+15	due	due	ADP	IN	_	18	case	_	_
+16	to	to	ADP	IN	_	15	fixed	_	_
+17	its	its	PRON	PRP$	Gender=Neut|Number=Sing|Person=3|Poss=Yes|PronType=Prs	18	nmod:poss	_	_
+18	tendency	tendency	NOUN	NN	Number=Sing	14	obl	_	_
+19	either	either	CCONJ	CC	_	21	cc:preconj	_	_
+20	to	to	PART	TO	_	21	mark	_	_
+21	gain	gain	VERB	VB	VerbForm=Inf	18	acl	_	_
+22	the	the	DET	DT	Definite=Def|PronType=Art	25	det	_	_
+23	missing	miss	VERB	VBG	VerbForm=Ger	25	amod	_	_
+24	valence	valence	NOUN	NN	Number=Sing	25	compound	_	_
+25	electrons	electron	NOUN	NNS	Number=Plur	21	obj	_	_
+26	and	and	CCONJ	CC	_	27	cc	_	_
+27	form	form	VERB	VB	VerbForm=Inf	21	conj	_	_
+28	a	a	DET	DT	Definite=Ind|PronType=Art	30	det	_	_
+29	negative	negative	ADJ	JJ	Degree=Pos	30	amod	_	_
+30	ion	ion	NOUN	NN	Number=Sing	27	obj	_	_
+31	,	,	PUNCT	,	_	33	punct	_	_
+32	or	or	CCONJ	CC	_	33	cc	_	_
+33	else	else	ADJ	JJ	Degree=Pos	30	conj	_	_
+34	to	to	PART	TO	_	35	mark	_	_
+35	share	share	VERB	VB	VerbForm=Inf	27	advcl	_	_
+36	valence	valence	NOUN	NN	Number=Sing	37	compound	_	_
+37	electrons	electron	NOUN	NNS	Number=Plur	35	obj	_	_
+38	and	and	CCONJ	CC	_	39	cc	_	_
+39	form	form	VERB	VB	VerbForm=Inf	35	conj	_	_
+40	a	a	DET	DT	Definite=Ind|PronType=Art	42	det	_	_
+41	covalent	covalent	NOUN	NN	Number=Sing	42	compound	_	_
+42	bond	bond	NOUN	NN	Number=Sing	39	obj	_	_
+43	.	.	PUNCT	.	_	14	punct	_	_
+
+# sent_id = 17.0
+# text = Similar to a core electron, a valence electron has the ability to absorb or release energy in the form of a photon.
+1	Similar	similar	ADJ	JJ	Degree=Pos	10	advcl	_	_
+2	to	to	ADP	IN	_	5	case	_	_
+3	a	a	DET	DT	Definite=Ind|PronType=Art	5	det	_	_
+4	core	core	NOUN	NN	Number=Sing	5	compound	_	_
+5	electron	electron	NOUN	NN	Number=Sing	1	obl	_	_
+6	,	,	PUNCT	,	_	1	punct	_	_
+7	a	a	DET	DT	Definite=Ind|PronType=Art	9	det	_	_
+8	valence	valence	NOUN	NN	Number=Sing	9	compound	_	_
+9	electron	electron	NOUN	NN	Number=Sing	10	nsubj	_	_
+10	has	have	VERB	VBZ	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	_
+11	the	the	DET	DT	Definite=Def|PronType=Art	12	det	_	_
+12	ability	ability	NOUN	NN	Number=Sing	10	obj	_	_
+13	to	to	PART	TO	_	14	mark	_	_
+14	absorb	absorb	VERB	VB	VerbForm=Inf	12	acl	_	_
+15	or	or	CCONJ	CC	_	16	cc	_	_
+16	release	release	VERB	VB	VerbForm=Inf	14	conj	_	_
+17	energy	energy	NOUN	NN	Number=Sing	14	obj	_	_
+18	in	in	ADP	IN	_	20	case	_	_
+19	the	the	DET	DT	Definite=Def|PronType=Art	20	det	_	_
+20	form	form	NOUN	NN	Number=Sing	14	obl	_	_
+21	of	of	ADP	IN	_	23	case	_	_
+22	a	a	DET	DT	Definite=Ind|PronType=Art	23	det	_	_
+23	photon	photon	NOUN	NN	Number=Sing	20	nmod	_	_
+24	.	.	PUNCT	.	_	10	punct	_	_
+
+# sent_id = 18.0
+# text = The advancement of science generally depends on the interplay between experimental studies and theory.
+1	The	the	DET	DT	Definite=Def|PronType=Art	2	det	_	_
+2	advancement	advancement	NOUN	NN	Number=Sing	6	nsubj	_	_
+3	of	of	ADP	IN	_	4	case	_	_
+4	science	science	NOUN	NN	Number=Sing	2	nmod	_	_
+5	generally	generally	ADV	RB	_	6	advmod	_	_
+6	depends	depend	VERB	VBZ	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	_
+7	on	on	ADP	IN	_	9	case	_	_
+8	the	the	DET	DT	Definite=Def|PronType=Art	9	det	_	_
+9	interplay	interplay	NOUN	NN	Number=Sing	6	obl	_	_
+10	between	between	ADP	IN	_	12	case	_	_
+11	experimental	experimental	ADJ	JJ	Degree=Pos	12	amod	_	_
+12	studies	study	NOUN	NNS	Number=Plur	9	nmod	_	_
+13	and	and	CCONJ	CC	_	14	cc	_	_
+14	theory	theory	NOUN	NN	Number=Sing	12	conj	_	_
+15	.	.	PUNCT	.	_	6	punct	_	_
+
+# sent_id = 19.0
+# text = In some cases, theoretical physics adheres to standards of mathematical rigour while giving little weight to experiments and observations.
+1	In	in	ADP	IN	_	3	case	_	_
+2	some	some	DET	DT	_	3	det	_	_
+3	cases	case	NOUN	NNS	Number=Plur	7	obl	_	_
+4	,	,	PUNCT	,	_	3	punct	_	_
+5	theoretical	theoretical	ADJ	JJ	Degree=Pos	6	amod	_	_
+6	physics	physics	NOUN	NN	Number=Sing	7	nsubj	_	_
+7	adheres	adhere	VERB	VBZ	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	_
+8	to	to	ADP	IN	_	9	case	_	_
+9	standards	standard	NOUN	NNS	Number=Plur	7	obl	_	_
+10	of	of	ADP	IN	_	12	case	_	_
+11	mathematical	mathematical	ADJ	JJ	Degree=Pos	12	amod	_	_
+12	rigour	rigour	NOUN	NN	Number=Sing	9	nmod	_	_
+13	while	while	SCONJ	IN	_	14	mark	_	_
+14	giving	give	VERB	VBG	VerbForm=Ger	7	advcl	_	_
+15	little	little	ADJ	JJ	Degree=Pos	16	amod	_	_
+16	weight	weight	NOUN	NN	Number=Sing	14	obj	_	_
+17	to	to	ADP	IN	_	18	case	_	_
+18	experiments	experiment	NOUN	NNS	Number=Plur	14	obl	_	_
+19	and	and	CCONJ	CC	_	20	cc	_	_
+20	observations	observation	NOUN	NNS	Number=Plur	18	conj	_	_
+21	.	.	PUNCT	.	_	7	punct	_	_
+
+# sent_id = 20.0
+# text = Conversely, Einstein was awarded the Nobel Prize for explaining the photoelectric effect, previously an experimental result lacking a theoretical formulation.
+1	Conversely	conversely	ADV	RB	_	5	advmod	_	_
+2	,	,	PUNCT	,	_	5	punct	_	_
+3	Einstein	Einstein	PROPN	NNP	Number=Sing	5	nsubj:pass	_	_
+4	was	be	AUX	VBD	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	5	aux:pass	_	_
+5	awarded	award	VERB	VBN	Tense=Past|VerbForm=Part|Voice=Pass	0	root	_	_
+6	the	the	DET	DT	Definite=Def|PronType=Art	8	det	_	_
+7	Nobel	Nobel	PROPN	NNP	Number=Sing	8	compound	_	_
+8	Prize	Prize	PROPN	NNP	Number=Sing	5	obj	_	_
+9	for	for	SCONJ	IN	_	10	mark	_	_
+10	explaining	explain	VERB	VBG	VerbForm=Ger	5	advcl	_	_
+11	the	the	DET	DT	Definite=Def|PronType=Art	13	det	_	_
+12	photoelectric	photoelectric	ADJ	JJ	Degree=Pos	13	amod	_	_
+13	effect	effect	NOUN	NN	Number=Sing	10	obj	_	_
+14	,	,	PUNCT	,	_	18	punct	_	_
+15	previously	previously	ADV	RB	_	18	advmod	_	_
+16	an	a	DET	DT	Definite=Ind|PronType=Art	18	det	_	_
+17	experimental	experimental	ADJ	JJ	Degree=Pos	18	amod	_	_
+18	result	result	NOUN	NN	Number=Sing	13	appos	_	_
+19	lacking	lack	VERB	VBG	VerbForm=Ger	18	acl	_	_
+20	a	a	DET	DT	Definite=Ind|PronType=Art	22	det	_	_
+21	theoretical	theoretical	ADJ	JJ	Degree=Pos	22	amod	_	_
+22	formulation	formulation	NOUN	NN	Number=Sing	19	obj	_	_
+23	.	.	PUNCT	.	_	5	punct	_	_
+
+# sent_id = 21.0
+# text = Dimensionally cursed phenomena occur in domains such as numerical analysis, sampling, combinatorics, machine learning, data mining and databases.
+1	Dimensionally	dimensionally	ADV	RB	_	2	advmod	_	_
+2	cursed	curse	VERB	VBN	Tense=Past|VerbForm=Part	3	amod	_	_
+3	phenomena	phenomenon	NOUN	NNS	Number=Plur	4	nsubj	_	_
+4	occur	occur	VERB	VBP	Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	_
+5	in	in	ADP	IN	_	6	case	_	_
+6	domains	domain	NOUN	NNS	Number=Plur	4	obl	_	_
+7	such	such	ADJ	JJ	Degree=Pos	10	case	_	_
+8	as	as	ADP	IN	_	7	fixed	_	_
+9	numerical	numerical	ADJ	JJ	Degree=Pos	10	amod	_	_
+10	analysis	analysis	NOUN	NN	Number=Sing	6	nmod	_	_
+11	,	,	PUNCT	,	_	12	punct	_	_
+12	sampling	sampling	NOUN	NN	Number=Sing	10	conj	_	_
+13	,	,	PUNCT	,	_	14	punct	_	_
+14	combinatorics	combinatoric	NOUN	NNS	Number=Plur	10	conj	_	_
+15	,	,	PUNCT	,	_	17	punct	_	_
+16	machine	machine	NOUN	NN	Number=Sing	17	compound	_	_
+17	learning	learning	NOUN	NN	Number=Sing	10	conj	_	_
+18	,	,	PUNCT	,	_	20	punct	_	_
+19	data	datum	NOUN	NN	Number=Sing	20	compound	_	_
+20	mining	mining	NOUN	NN	Number=Sing	10	conj	_	_
+21	and	and	CCONJ	CC	_	22	cc	_	_
+22	databases	database	NOUN	NNS	Number=Plur	10	conj	_	_
+23	.	.	PUNCT	.	_	4	punct	_	_
+
+# sent_id = 22.0
+# text = In order to obtain a statistically sound and reliable result, the amount of data needed to support the result often grows exponentially with the dimensionality.
+1	In	in	ADP	IN	_	4	mark	_	_
+2	order	order	NOUN	NN	Number=Sing	1	fixed	_	_
+3	to	to	PART	TO	_	4	mark	_	_
+4	obtain	obtain	VERB	VB	VerbForm=Inf	22	advcl	_	_
+5	a	a	DET	DT	Definite=Ind|PronType=Art	10	det	_	_
+6	statistically	statistically	ADV	RB	_	7	advmod	_	_
+7	sound	sound	ADJ	JJ	Degree=Pos	10	amod	_	_
+8	and	and	CCONJ	CC	_	9	cc	_	_
+9	reliable	reliable	ADJ	JJ	Degree=Pos	7	conj	_	_
+10	result	result	NOUN	NN	Number=Sing	4	obj	_	_
+11	,	,	PUNCT	,	_	4	punct	_	_
+12	the	the	DET	DT	Definite=Def|PronType=Art	13	det	_	_
+13	amount	amount	NOUN	NN	Number=Sing	22	nsubj	_	_
+14	of	of	ADP	IN	_	15	case	_	_
+15	data	datum	NOUN	NNS	Number=Plur	13	nmod	_	_
+16	needed	need	VERB	VBN	Mood=Ind|Tense=Past|VerbForm=Fin	13	acl	_	_
+17	to	to	PART	TO	_	18	mark	_	_
+18	support	support	VERB	VB	VerbForm=Inf	16	xcomp	_	_
+19	the	the	DET	DT	Definite=Def|PronType=Art	20	det	_	_
+20	result	result	NOUN	NN	Number=Sing	18	obj	_	_
+21	often	often	ADV	RB	_	22	advmod	_	_
+22	grows	grow	VERB	VBZ	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	_
+23	exponentially	exponentially	ADV	RB	_	22	advmod	_	_
+24	with	with	ADP	IN	_	26	case	_	_
+25	the	the	DET	DT	Definite=Def|PronType=Art	26	det	_	_
+26	dimensionality	dimensionality	NOUN	NN	Number=Sing	22	obl	_	_
+27	.	.	PUNCT	.	_	22	punct	_	_
+
+# sent_id = 23.0
+# text = The photon  is a type of elementary particle.
+1	The	the	DET	DT	Definite=Def|PronType=Art	2	det	_	_
+2	photon	photon	NOUN	NN	Number=Sing	5	nsubj	_	_
+3	is	be	AUX	VBZ	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	5	cop	_	_
+4	a	a	DET	DT	Definite=Ind|PronType=Art	5	det	_	_
+5	type	type	NOUN	NN	Number=Sing	0	root	_	_
+6	of	of	ADP	IN	_	8	case	_	_
+7	elementary	elementary	ADJ	JJ	Degree=Pos	8	amod	_	_
+8	particle	particle	NOUN	NN	Number=Sing	5	nmod	_	_
+9	.	.	PUNCT	.	_	5	punct	_	_
+
+# sent_id = 24.0
+# text = Photons are massless, so they always move at the speed of light in vacuum, 299792458 m/s .
+1	Photons	photon	NOUN	NNS	Number=Plur	3	nsubj	_	_
+2	are	be	AUX	VBP	Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin	3	cop	_	_
+3	massless	massless	ADJ	JJ	Degree=Pos	0	root	_	_
+4	,	,	PUNCT	,	_	8	punct	_	_
+5	so	so	ADV	RB	_	8	advmod	_	_
+6	they	they	PRON	PRP	Case=Nom|Number=Plur|Person=3|PronType=Prs	8	nsubj	_	_
+7	always	always	ADV	RB	_	8	advmod	_	_
+8	move	move	VERB	VBP	Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin	3	parataxis	_	_
+9	at	at	ADP	IN	_	11	case	_	_
+10	the	the	DET	DT	Definite=Def|PronType=Art	11	det	_	_
+11	speed	speed	NOUN	NN	Number=Sing	8	obl	_	_
+12	of	of	ADP	IN	_	13	case	_	_
+13	light	light	NOUN	NN	Number=Sing	11	nmod	_	_
+14	in	in	ADP	IN	_	15	case	_	_
+15	vacuum	vacuum	NOUN	NN	Number=Sing	18	compound	_	_
+16	,	,	PUNCT	,	_	18	punct	_	_
+17	299792458	299792458	NUM	CD	NumType=Card	18	nummod	_	_
+18	m/s	m/	NOUN	NN	Number=Sing	11	nmod	_	_
+19	.	.	PUNCT	.	_	3	punct	_	_
+
+# sent_id = 25.0
+# text = The photon belongs to the class of bosons.
+1	The	the	DET	DT	Definite=Def|PronType=Art	2	det	_	_
+2	photon	photon	NOUN	NN	Number=Sing	3	nsubj	_	_
+3	belongs	belong	VERB	VBZ	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	_
+4	to	to	ADP	IN	_	6	case	_	_
+5	the	the	DET	DT	Definite=Def|PronType=Art	6	det	_	_
+6	class	class	NOUN	NN	Number=Sing	3	obl	_	_
+7	of	of	ADP	IN	_	8	case	_	_
+8	bosons	boson	NOUN	NNS	Number=Plur	6	nmod	_	_
+9	.	.	PUNCT	.	_	3	punct	_	_
+
+# sent_id = 26.0
+# text = The modern photon concept originated during the first two decades of the 20th century with the work of Albert Einstein, who built upon the research of Max Planck.
+1	The	the	DET	DT	Definite=Def|PronType=Art	4	det	_	_
+2	modern	modern	ADJ	JJ	Degree=Pos	4	amod	_	_
+3	photon	photon	NOUN	NN	Number=Sing	4	compound	_	_
+4	concept	concept	NOUN	NN	Number=Sing	5	nsubj	_	_
+5	originated	originate	VERB	VBD	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	0	root	_	_
+6	during	during	ADP	IN	_	10	case	_	_
+7	the	the	DET	DT	Definite=Def|PronType=Art	10	det	_	_
+8	first	first	ADJ	JJ	Degree=Pos|NumType=Ord	10	amod	_	_
+9	two	two	NUM	CD	NumType=Card	10	nummod	_	_
+10	decades	decade	NOUN	NNS	Number=Plur	5	obl	_	_
+11	of	of	ADP	IN	_	14	case	_	_
+12	the	the	DET	DT	Definite=Def|PronType=Art	14	det	_	_
+13	20th	20th	ADJ	JJ	Degree=Pos|NumType=Ord	14	amod	_	_
+14	century	century	NOUN	NN	Number=Sing	10	nmod	_	_
+15	with	with	ADP	IN	_	17	case	_	_
+16	the	the	DET	DT	Definite=Def|PronType=Art	17	det	_	_
+17	work	work	NOUN	NN	Number=Sing	5	obl	_	_
+18	of	of	ADP	IN	_	19	case	_	_
+19	Albert	Albert	PROPN	NNP	Number=Sing	17	nmod	_	_
+20	Einstein	Einstein	PROPN	NNP	Number=Sing	19	flat	_	_
+21	,	,	PUNCT	,	_	23	punct	_	_
+22	who	who	PRON	WP	PronType=Rel	23	nsubj	_	_
+23	built	build	VERB	VBD	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	19	acl:relcl	_	_
+24	upon	upon	ADP	IN	_	26	case	_	_
+25	the	the	DET	DT	Definite=Def|PronType=Art	26	det	_	_
+26	research	research	NOUN	NN	Number=Sing	23	obl	_	_
+27	of	of	ADP	IN	_	28	case	_	_
+28	Max	Max	PROPN	NNP	Number=Sing	26	nmod	_	_
+29	Planck	Planck	PROPN	NNP	Number=Sing	28	flat	_	_
+30	.	.	PUNCT	.	_	5	punct	_	_
+
+# sent_id = 27.0
+# text = In the Standard Model of particle physics, photons and other elementary particles are described as a necessary consequence of physical laws having a certain symmetry at every point in spacetime.
+1	In	in	ADP	IN	_	4	case	_	_
+2	the	the	DET	DT	Definite=Def|PronType=Art	4	det	_	_
+3	Standard	Standard	PROPN	NNP	Number=Sing	4	compound	_	_
+4	Model	Model	PROPN	NNP	Number=Sing	15	obl	_	_
+5	of	of	ADP	IN	_	6	case	_	_
+6	particle	particle	NOUN	NN	Number=Sing	7	compound	_	_
+7	physics	physics	NOUN	NN	Number=Sing	4	nmod	_	_
+8	,	,	PUNCT	,	_	15	punct	_	_
+9	photons	photon	NOUN	NNS	Number=Plur	15	nsubj:pass	_	_
+10	and	and	CCONJ	CC	_	13	cc	_	_
+11	other	other	ADJ	JJ	Degree=Pos	13	amod	_	_
+12	elementary	elementary	ADJ	JJ	Degree=Pos	13	amod	_	_
+13	particles	particle	NOUN	NNS	Number=Plur	9	conj	_	_
+14	are	be	AUX	VBP	Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin	15	aux:pass	_	_
+15	described	describe	VERB	VBN	Tense=Past|VerbForm=Part|Voice=Pass	0	root	_	_
+16	as	as	ADP	IN	_	19	case	_	_
+17	a	a	DET	DT	Definite=Ind|PronType=Art	19	det	_	_
+18	necessary	necessary	ADJ	JJ	Degree=Pos	19	amod	_	_
+19	consequence	consequence	NOUN	NN	Number=Sing	15	obl	_	_
+20	of	of	ADP	IN	_	22	case	_	_
+21	physical	physical	ADJ	JJ	Degree=Pos	22	amod	_	_
+22	laws	law	NOUN	NNS	Number=Plur	19	nmod	_	_
+23	having	have	VERB	VBG	VerbForm=Ger	22	acl	_	_
+24	a	a	DET	DT	Definite=Ind|PronType=Art	26	det	_	_
+25	certain	certain	ADJ	JJ	Degree=Pos	26	amod	_	_
+26	symmetry	symmetry	NOUN	NN	Number=Sing	23	obj	_	_
+27	at	at	ADP	IN	_	29	case	_	_
+28	every	every	DET	DT	_	29	det	_	_
+29	point	point	NOUN	NN	Number=Sing	26	nmod	_	_
+30	in	in	ADP	IN	_	31	case	_	_
+31	spacetime	spacetime	NOUN	NN	Number=Sing	29	nmod	_	_
+32	.	.	PUNCT	.	_	15	punct	_	_
+
+# sent_id = 28.0
+# text = Recently, photons have been studied as elements of quantum computers, and for applications in optical imaging and optical communication such as quantum cryptography.
+1	Recently	recently	ADV	RB	_	6	advmod	_	_
+2	,	,	PUNCT	,	_	6	punct	_	_
+3	photons	photon	NOUN	NNS	Number=Plur	6	nsubj:pass	_	_
+4	have	have	AUX	VBP	Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin	6	aux	_	_
+5	been	be	AUX	VBN	Tense=Past|VerbForm=Part	6	aux:pass	_	_
+6	studied	study	VERB	VBN	Tense=Past|VerbForm=Part|Voice=Pass	0	root	_	_
+7	as	as	ADP	IN	_	8	case	_	_
+8	elements	element	NOUN	NNS	Number=Plur	6	obl	_	_
+9	of	of	ADP	IN	_	11	case	_	_
+10	quantum	quantum	NOUN	NN	Number=Sing	11	compound	_	_
+11	computers	computer	NOUN	NNS	Number=Plur	8	nmod	_	_
+12	,	,	PUNCT	,	_	15	punct	_	_
+13	and	and	CCONJ	CC	_	15	cc	_	_
+14	for	for	ADP	IN	_	15	case	_	_
+15	applications	application	NOUN	NNS	Number=Plur	8	conj	_	_
+16	in	in	ADP	IN	_	18	case	_	_
+17	optical	optical	ADJ	JJ	Degree=Pos	18	amod	_	_
+18	imaging	imaging	NOUN	NN	Number=Sing	15	nmod	_	_
+19	and	and	CCONJ	CC	_	21	cc	_	_
+20	optical	optical	ADJ	JJ	Degree=Pos	21	amod	_	_
+21	communication	communication	NOUN	NN	Number=Sing	18	conj	_	_
+22	such	such	ADJ	JJ	Degree=Pos	25	case	_	_
+23	as	as	ADP	IN	_	22	fixed	_	_
+24	quantum	quantum	NOUN	NN	Number=Sing	25	compound	_	_
+25	cryptography	cryptography	NOUN	NN	Number=Sing	18	nmod	_	_
+26	.	.	PUNCT	.	_	6	punct	_	_
+
+# sent_id = 29.0
+# text = Earth has two such belts, and sometimes others may be temporarily created.
+1	Earth	Earth	PROPN	NNP	Number=Sing	2	nsubj	_	_
+2	has	have	VERB	VBZ	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	_
+3	two	two	NUM	CD	NumType=Card	5	nummod	_	_
+4	such	such	ADJ	JJ	Degree=Pos	5	amod	_	_
+5	belts	belt	NOUN	NNS	Number=Plur	2	obj	_	_
+6	,	,	PUNCT	,	_	13	punct	_	_
+7	and	and	CCONJ	CC	_	13	cc	_	_
+8	sometimes	sometimes	ADV	RB	_	13	advmod	_	_
+9	others	other	NOUN	NNS	Number=Plur	13	nsubj:pass	_	_
+10	may	may	AUX	MD	VerbForm=Fin	13	aux	_	_
+11	be	be	AUX	VB	VerbForm=Inf	13	aux:pass	_	_
+12	temporarily	temporarily	ADV	RB	_	13	advmod	_	_
+13	created	create	VERB	VBN	Tense=Past|VerbForm=Part|Voice=Pass	2	conj	_	_
+14	.	.	PUNCT	.	_	2	punct	_	_
+
+# sent_id = 30.0
+# text = The belts are named after James Van Allen, who is credited with their discovery.
+1	The	the	DET	DT	Definite=Def|PronType=Art	2	det	_	_
+2	belts	belt	NOUN	NNS	Number=Plur	4	nsubj:pass	_	_
+3	are	be	AUX	VBP	Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin	4	aux:pass	_	_
+4	named	name	VERB	VBN	Tense=Past|VerbForm=Part|Voice=Pass	0	root	_	_
+5	after	after	ADP	IN	_	6	case	_	_
+6	James	James	PROPN	NNP	Number=Sing	4	obl	_	_
+7	Van	Van	PROPN	NNP	Number=Sing	6	flat	_	_
+8	Allen	Allen	PROPN	NNP	Number=Sing	6	flat	_	_
+9	,	,	PUNCT	,	_	6	punct	_	_
+10	who	who	PRON	WP	PronType=Rel	12	nsubj:pass	_	_
+11	is	be	AUX	VBZ	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	12	aux:pass	_	_
+12	credited	credit	VERB	VBN	Tense=Past|VerbForm=Part|Voice=Pass	6	acl:relcl	_	_
+13	with	with	ADP	IN	_	15	case	_	_
+14	their	they	PRON	PRP$	Number=Plur|Person=3|Poss=Yes|PronType=Prs	15	nmod:poss	_	_
+15	discovery	discovery	NOUN	NN	Number=Sing	12	obl	_	_
+16	.	.	PUNCT	.	_	4	punct	_	_
+
+# sent_id = 31.0
+# text = The belts trap energetic electrons and protons.
+1	The	the	DET	DT	Definite=Def|PronType=Art	2	det	_	_
+2	belts	belt	NOUN	NNS	Number=Plur	3	nsubj	_	_
+3	trap	trap	VERB	VBP	Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	_
+4	energetic	energetic	ADJ	JJ	Degree=Pos	5	amod	_	_
+5	electrons	electron	NOUN	NNS	Number=Plur	3	obj	_	_
+6	and	and	CCONJ	CC	_	7	cc	_	_
+7	protons	proton	NOUN	NNS	Number=Plur	5	conj	_	_
+8	.	.	PUNCT	.	_	3	punct	_	_
+
+# sent_id = 32.0
+# text = Other nuclei, such as alpha particles, are less prevalent.
+1	Other	other	ADJ	JJ	Degree=Pos	2	amod	_	_
+2	nuclei	nuclei	NOUN	NNS	Number=Plur	11	nsubj	_	_
+3	,	,	PUNCT	,	_	2	punct	_	_
+4	such	such	ADJ	JJ	Degree=Pos	7	case	_	_
+5	as	as	ADP	IN	_	4	fixed	_	_
+6	alpha	alpha	NOUN	NN	Number=Sing	7	compound	_	_
+7	particles	particle	NOUN	NNS	Number=Plur	2	nmod	_	_
+8	,	,	PUNCT	,	_	2	punct	_	_
+9	are	be	AUX	VBP	Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin	11	cop	_	_
+10	less	less	ADV	RBR	Degree=Cmp	11	advmod	_	_
+11	prevalent	prevalent	ADJ	JJ	Degree=Pos	0	root	_	_
+12	.	.	PUNCT	.	_	11	punct	_	_
+
+# sent_id = 33.0
+# text = Anti-gravity is a recurring concept in science fiction, particularly in the context of spacecraft propulsion.
+1	Anti-gravity	anti-gravity	NOUN	NN	Number=Sing	5	nsubj	_	_
+2	is	be	AUX	VBZ	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	5	cop	_	_
+3	a	a	DET	DT	Definite=Ind|PronType=Art	5	det	_	_
+4	recurring	recur	VERB	VBG	VerbForm=Ger	5	amod	_	_
+5	concept	concept	NOUN	NN	Number=Sing	0	root	_	_
+6	in	in	ADP	IN	_	8	case	_	_
+7	science	science	NOUN	NN	Number=Sing	8	compound	_	_
+8	fiction	fiction	NOUN	NN	Number=Sing	5	nmod	_	_
+9	,	,	PUNCT	,	_	5	punct	_	_
+10	particularly	particularly	ADV	RB	_	13	advmod	_	_
+11	in	in	ADP	IN	_	13	case	_	_
+12	the	the	DET	DT	Definite=Def|PronType=Art	13	det	_	_
+13	context	context	NOUN	NN	Number=Sing	5	nmod	_	_
+14	of	of	ADP	IN	_	16	case	_	_
+15	spacecraft	spacecraft	NOUN	NN	Number=Sing	16	compound	_	_
+16	propulsion	propulsion	NOUN	NN	Number=Sing	13	nmod	_	_
+17	.	.	PUNCT	.	_	5	punct	_	_
+
+# sent_id = 34.0
+# text = Gravity plates and compensators as envisioned in contemporary science fiction also are not anti-gravity.
+1	Gravity	gravity	NOUN	NN	Number=Sing	2	compound	_	_
+2	plates	plate	NOUN	NNS	Number=Plur	14	nsubj	_	_
+3	and	and	CCONJ	CC	_	4	cc	_	_
+4	compensators	compensator	NOUN	NNS	Number=Plur	2	conj	_	_
+5	as	as	SCONJ	IN	_	6	mark	_	_
+6	envisioned	envision	VERB	VBN	Tense=Past|VerbForm=Part	2	acl	_	_
+7	in	in	ADP	IN	_	10	case	_	_
+8	contemporary	contemporary	ADJ	JJ	Degree=Pos	10	amod	_	_
+9	science	science	NOUN	NN	Number=Sing	10	compound	_	_
+10	fiction	fiction	NOUN	NN	Number=Sing	6	obl	_	_
+11	also	also	ADV	RB	_	14	advmod	_	_
+12	are	be	AUX	VBP	Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin	14	cop	_	_
+13	not	not	PART	RB	_	14	advmod	_	_
+14	anti-gravity	anti-gravity	NOUN	NN	Number=Sing	0	root	_	_
+15	.	.	PUNCT	.	_	14	punct	_	_
+
+# sent_id = 35.0
+# text = Human height or stature is the distance from the bottom of the feet to the top of the head in a human body, standing erect.
+1	Human	human	ADJ	JJ	Degree=Pos	2	amod	_	_
+2	height	height	NOUN	NN	Number=Sing	7	nsubj	_	_
+3	or	or	CCONJ	CC	_	4	cc	_	_
+4	stature	stature	NOUN	NN	Number=Sing	2	conj	_	_
+5	is	be	AUX	VBZ	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	7	cop	_	_
+6	the	the	DET	DT	Definite=Def|PronType=Art	7	det	_	_
+7	distance	distance	NOUN	NN	Number=Sing	0	root	_	_
+8	from	from	ADP	IN	_	10	case	_	_
+9	the	the	DET	DT	Definite=Def|PronType=Art	10	det	_	_
+10	bottom	bottom	NOUN	NN	Number=Sing	7	nmod	_	_
+11	of	of	ADP	IN	_	13	case	_	_
+12	the	the	DET	DT	Definite=Def|PronType=Art	13	det	_	_
+13	feet	foot	NOUN	NNS	Number=Plur	10	nmod	_	_
+14	to	to	ADP	IN	_	16	case	_	_
+15	the	the	DET	DT	Definite=Def|PronType=Art	16	det	_	_
+16	top	top	NOUN	NN	Number=Sing	7	nmod	_	_
+17	of	of	ADP	IN	_	19	case	_	_
+18	the	the	DET	DT	Definite=Def|PronType=Art	19	det	_	_
+19	head	head	NOUN	NN	Number=Sing	16	nmod	_	_
+20	in	in	ADP	IN	_	23	case	_	_
+21	a	a	DET	DT	Definite=Ind|PronType=Art	23	det	_	_
+22	human	human	ADJ	JJ	Degree=Pos	23	amod	_	_
+23	body	body	NOUN	NN	Number=Sing	19	nmod	_	_
+24	,	,	PUNCT	,	_	25	punct	_	_
+25	standing	stand	VERB	VBG	VerbForm=Ger	7	acl	_	_
+26	erect	erect	ADJ	JJ	Degree=Pos	25	xcomp	_	_
+27	.	.	PUNCT	.	_	7	punct	_	_
+
+# sent_id = 36.0
+# text = In the early phase of anthropometric research history, questions about height techniques for measuring nutritional status often concerned genetic differences.
+1	In	in	ADP	IN	_	4	case	_	_
+2	the	the	DET	DT	Definite=Def|PronType=Art	4	det	_	_
+3	early	early	ADJ	JJ	Degree=Pos	4	amod	_	_
+4	phase	phase	NOUN	NN	Number=Sing	19	obl	_	_
+5	of	of	ADP	IN	_	8	case	_	_
+6	anthropometric	anthropometric	ADJ	JJ	Degree=Pos	8	amod	_	_
+7	research	research	NOUN	NN	Number=Sing	8	compound	_	_
+8	history	history	NOUN	NN	Number=Sing	4	nmod	_	_
+9	,	,	PUNCT	,	_	4	punct	_	_
+10	questions	question	NOUN	NNS	Number=Plur	19	nsubj	_	_
+11	about	about	ADP	IN	_	13	case	_	_
+12	height	height	NOUN	NN	Number=Sing	13	compound	_	_
+13	techniques	technique	NOUN	NNS	Number=Plur	10	nmod	_	_
+14	for	for	SCONJ	IN	_	15	mark	_	_
+15	measuring	measure	VERB	VBG	VerbForm=Ger	13	acl	_	_
+16	nutritional	nutritional	ADJ	JJ	Degree=Pos	17	amod	_	_
+17	status	status	NOUN	NN	Number=Sing	15	obj	_	_
+18	often	often	ADV	RB	_	19	advmod	_	_
+19	concerned	concern	VERB	VBD	Mood=Ind|Number=Plur|Person=3|Tense=Past|VerbForm=Fin	0	root	_	_
+20	genetic	genetic	ADJ	JJ	Degree=Pos	21	amod	_	_
+21	differences	difference	NOUN	NNS	Number=Plur	19	obj	_	_
+22	.	.	PUNCT	.	_	19	punct	_	_
+
+# sent_id = 37.0
+# text = Individuals of small stature are also more likely to have lower blood pressure and are less likely to acquire cancer.
+1	Individuals	individual	NOUN	NNS	Number=Plur	8	nsubj	_	_
+2	of	of	ADP	IN	_	4	case	_	_
+3	small	small	ADJ	JJ	Degree=Pos	4	amod	_	_
+4	stature	stature	NOUN	NN	Number=Sing	1	nmod	_	_
+5	are	be	AUX	VBP	Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin	8	cop	_	_
+6	also	also	ADV	RB	_	8	advmod	_	_
+7	more	more	ADV	RBR	Degree=Cmp	8	advmod	_	_
+8	likely	likely	ADJ	JJ	Degree=Pos	0	root	_	_
+9	to	to	PART	TO	_	10	mark	_	_
+10	have	have	VERB	VB	VerbForm=Inf	8	xcomp	_	_
+11	lower	low	ADJ	JJR	Degree=Cmp	13	amod	_	_
+12	blood	blood	NOUN	NN	Number=Sing	13	compound	_	_
+13	pressure	pressure	NOUN	NN	Number=Sing	10	obj	_	_
+14	and	and	CCONJ	CC	_	17	cc	_	_
+15	are	be	AUX	VBP	Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin	17	cop	_	_
+16	less	less	ADV	RBR	Degree=Cmp	17	advmod	_	_
+17	likely	likely	ADJ	JJ	Degree=Pos	8	conj	_	_
+18	to	to	PART	TO	_	19	mark	_	_
+19	acquire	acquire	VERB	VB	VerbForm=Inf	17	xcomp	_	_
+20	cancer	cancer	NOUN	NN	Number=Sing	19	obj	_	_
+21	.	.	PUNCT	.	_	8	punct	_	_
+
+# sent_id = 38.0
+# text = Short stature decreases the risk of venous insufficiency.
+1	Short	short	ADJ	JJ	Degree=Pos	2	amod	_	_
+2	stature	stature	NOUN	NN	Number=Sing	3	nsubj	_	_
+3	decreases	decrease	VERB	VBZ	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	_
+4	the	the	DET	DT	Definite=Def|PronType=Art	5	det	_	_
+5	risk	risk	NOUN	NN	Number=Sing	3	obj	_	_
+6	of	of	ADP	IN	_	8	case	_	_
+7	venous	venous	ADJ	JJ	Degree=Pos	8	amod	_	_
+8	insufficiency	insufficiency	NOUN	NN	Number=Sing	5	nmod	_	_
+9	.	.	PUNCT	.	_	3	punct	_	_
+
+# sent_id = 39.0
+# text = When populations share genetic background and environmental factors, average height is frequently characteristic within the group.
+1	When	when	SCONJ	WRB	PronType=Int	3	mark	_	_
+2	populations	population	NOUN	NNS	Number=Plur	3	nsubj	_	_
+3	share	share	VERB	VBP	Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin	14	advcl	_	_
+4	genetic	genetic	ADJ	JJ	Degree=Pos	5	amod	_	_
+5	background	background	NOUN	NN	Number=Sing	3	obj	_	_
+6	and	and	CCONJ	CC	_	8	cc	_	_
+7	environmental	environmental	ADJ	JJ	Degree=Pos	8	amod	_	_
+8	factors	factor	NOUN	NNS	Number=Plur	5	conj	_	_
+9	,	,	PUNCT	,	_	3	punct	_	_
+10	average	average	ADJ	JJ	Degree=Pos	11	amod	_	_
+11	height	height	NOUN	NN	Number=Sing	14	nsubj	_	_
+12	is	be	AUX	VBZ	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	14	cop	_	_
+13	frequently	frequently	ADV	RB	_	14	advmod	_	_
+14	characteristic	characteristic	ADJ	JJ	Degree=Pos	0	root	_	_
+15	within	within	ADP	IN	_	17	case	_	_
+16	the	the	DET	DT	Definite=Def|PronType=Art	17	det	_	_
+17	group	group	NOUN	NN	Number=Sing	14	obl	_	_
+18	.	.	PUNCT	.	_	14	punct	_	_
+
+# sent_id = 40.0
+# text = Exceptional height variation  within such a population is sometimes due to gigantism or dwarfism, which are medical conditions caused by specific genes or endocrine abnormalities.
+1	Exceptional	exceptional	ADJ	JJ	Degree=Pos	3	amod	_	_
+2	height	height	NOUN	NN	Number=Sing	3	compound	_	_
+3	variation	variation	NOUN	NN	Number=Sing	12	nsubj	_	_
+4	within	within	ADP	IN	_	7	case	_	_
+5	such	such	DET	PDT	PronType=Dem	7	det:predet	_	_
+6	a	a	DET	DT	Definite=Ind|PronType=Art	7	det	_	_
+7	population	population	NOUN	NN	Number=Sing	3	nmod	_	_
+8	is	be	AUX	VBZ	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	12	cop	_	_
+9	sometimes	sometimes	ADV	RB	_	12	advmod	_	_
+10	due	due	ADP	IN	_	12	case	_	_
+11	to	to	ADP	IN	_	10	fixed	_	_
+12	gigantism	gigantism	NOUN	NN	Number=Sing	0	root	_	_
+13	or	or	CCONJ	CC	_	14	cc	_	_
+14	dwarfism	dwarfism	NOUN	NN	Number=Sing	12	conj	_	_
+15	,	,	PUNCT	,	_	19	punct	_	_
+16	which	which	PRON	WDT	PronType=Rel	19	nsubj	_	_
+17	are	be	AUX	VBP	Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin	19	cop	_	_
+18	medical	medical	ADJ	JJ	Degree=Pos	19	amod	_	_
+19	conditions	condition	NOUN	NNS	Number=Plur	12	acl:relcl	_	_
+20	caused	cause	VERB	VBN	Tense=Past|VerbForm=Part	19	acl	_	_
+21	by	by	ADP	IN	_	23	case	_	_
+22	specific	specific	ADJ	JJ	Degree=Pos	23	amod	_	_
+23	genes	gene	NOUN	NNS	Number=Plur	20	obl:agent	_	_
+24	or	or	CCONJ	CC	_	26	cc	_	_
+25	endocrine	endocrine	ADJ	JJ	Degree=Pos	26	amod	_	_
+26	abnormalities	abnormality	NOUN	NNS	Number=Plur	23	conj	_	_
+27	.	.	PUNCT	.	_	12	punct	_	_
+
+# sent_id = 41.0
+# text = The development of human height can serve as an indicator of two key welfare components, namely nutritional quality and health.
+1	The	the	DET	DT	Definite=Def|PronType=Art	2	det	_	_
+2	development	development	NOUN	NN	Number=Sing	7	nsubj	_	_
+3	of	of	ADP	IN	_	5	case	_	_
+4	human	human	ADJ	JJ	Degree=Pos	5	amod	_	_
+5	height	height	NOUN	NN	Number=Sing	2	nmod	_	_
+6	can	can	AUX	MD	VerbForm=Fin	7	aux	_	_
+7	serve	serve	VERB	VB	VerbForm=Inf	0	root	_	_
+8	as	as	ADP	IN	_	10	case	_	_
+9	an	a	DET	DT	Definite=Ind|PronType=Art	10	det	_	_
+10	indicator	indicator	NOUN	NN	Number=Sing	7	obl	_	_
+11	of	of	ADP	IN	_	15	case	_	_
+12	two	two	NUM	CD	NumType=Card	15	nummod	_	_
+13	key	key	ADJ	JJ	Degree=Pos	15	amod	_	_
+14	welfare	welfare	NOUN	NN	Number=Sing	15	compound	_	_
+15	components	component	NOUN	NNS	Number=Plur	10	nmod	_	_
+16	,	,	PUNCT	,	_	19	punct	_	_
+17	namely	namely	ADV	RB	_	19	advmod	_	_
+18	nutritional	nutritional	ADJ	JJ	Degree=Pos	19	amod	_	_
+19	quality	quality	NOUN	NN	Number=Sing	15	conj	_	_
+20	and	and	CCONJ	CC	_	21	cc	_	_
+21	health	health	NOUN	NN	Number=Sing	19	conj	_	_
+22	.	.	PUNCT	.	_	7	punct	_	_
+
+# sent_id = 42.0
+# text = Height is a sexually dimorphic trait in humans.
+1	Height	height	NOUN	NN	Number=Sing	6	nsubj	_	_
+2	is	be	AUX	VBZ	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	6	cop	_	_
+3	a	a	DET	DT	Definite=Ind|PronType=Art	6	det	_	_
+4	sexually	sexually	ADV	RB	_	5	advmod	_	_
+5	dimorphic	dimorphic	ADJ	JJ	Degree=Pos	6	amod	_	_
+6	trait	trait	NOUN	NN	Number=Sing	0	root	_	_
+7	in	in	ADP	IN	_	8	case	_	_
+8	humans	human	NOUN	NNS	Number=Plur	6	nmod	_	_
+9	.	.	PUNCT	.	_	6	punct	_	_
+
+# sent_id = 43.0
+# text = Ludwig Eduard Boltzmann  was an Austrian physicist and philosopher.
+1	Ludwig	Ludwig	PROPN	NNP	Number=Sing	7	nsubj	_	_
+2	Eduard	Eduard	PROPN	NNP	Number=Sing	1	flat	_	_
+3	Boltzmann	Boltzmann	PROPN	NNP	Number=Sing	1	flat	_	_
+4	was	be	AUX	VBD	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	7	cop	_	_
+5	an	a	DET	DT	Definite=Ind|PronType=Art	7	det	_	_
+6	Austrian	Austrian	ADJ	JJ	Degree=Pos	7	amod	_	_
+7	physicist	physicist	NOUN	NN	Number=Sing	0	root	_	_
+8	and	and	CCONJ	CC	_	9	cc	_	_
+9	philosopher	philosopher	NOUN	NN	Number=Sing	7	conj	_	_
+10	.	.	PUNCT	.	_	7	punct	_	_
+
+# sent_id = 44.0
+# text = His greatest achievements were the development of statistical mechanics, and the statistical explanation of the second law of thermodynamics.
+1	His	his	PRON	PRP$	Gender=Masc|Number=Sing|Person=3|Poss=Yes|PronType=Prs	3	nmod:poss	_	_
+2	greatest	great	ADJ	JJS	Degree=Sup	3	amod	_	_
+3	achievements	achievement	NOUN	NNS	Number=Plur	6	nsubj	_	_
+4	were	be	AUX	VBD	Mood=Ind|Number=Plur|Person=3|Tense=Past|VerbForm=Fin	6	cop	_	_
+5	the	the	DET	DT	Definite=Def|PronType=Art	6	det	_	_
+6	development	development	NOUN	NN	Number=Sing	0	root	_	_
+7	of	of	ADP	IN	_	9	case	_	_
+8	statistical	statistical	ADJ	JJ	Degree=Pos	9	amod	_	_
+9	mechanics	mechanic	NOUN	NN	Number=Sing	6	nmod	_	_
+10	,	,	PUNCT	,	_	14	punct	_	_
+11	and	and	CCONJ	CC	_	14	cc	_	_
+12	the	the	DET	DT	Definite=Def|PronType=Art	14	det	_	_
+13	statistical	statistical	ADJ	JJ	Degree=Pos	14	amod	_	_
+14	explanation	explanation	NOUN	NN	Number=Sing	6	conj	_	_
+15	of	of	ADP	IN	_	18	case	_	_
+16	the	the	DET	DT	Definite=Def|PronType=Art	18	det	_	_
+17	second	second	ADJ	JJ	Degree=Pos|NumType=Ord	18	amod	_	_
+18	law	law	NOUN	NN	Number=Sing	14	nmod	_	_
+19	of	of	ADP	IN	_	20	case	_	_
+20	thermodynamics	thermodynamic	NOUN	NN	Number=Sing	18	nmod	_	_
+21	.	.	PUNCT	.	_	6	punct	_	_
+
+# sent_id = 45.0
+# text = Max Planck named the constant kB the Boltzmann constant.
+1	Max	Max	PROPN	NNP	Number=Sing	3	nsubj	_	_
+2	Planck	Planck	PROPN	NNP	Number=Sing	1	flat	_	_
+3	named	name	VERB	VBD	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	0	root	_	_
+4	the	the	DET	DT	Definite=Def|PronType=Art	6	det	_	_
+5	constant	constant	ADJ	JJ	Degree=Pos	6	amod	_	_
+6	kB	kb	NOUN	NN	Number=Sing	3	obj	_	_
+7	the	the	DET	DT	Definite=Def|PronType=Art	9	det	_	_
+8	Boltzmann	Boltzmann	PROPN	NNP	Number=Sing	9	compound	_	_
+9	constant	constant	NOUN	NN	Number=Sing	6	appos	_	_
+10	.	.	PUNCT	.	_	3	punct	_	_
+
+# sent_id = 46.0
+# text = Statistical mechanics is one of the pillars of modern physics.
+1	Statistical	statistical	ADJ	JJ	Degree=Pos	2	amod	_	_
+2	mechanics	mechanic	NOUN	NN	Number=Sing	4	nsubj	_	_
+3	is	be	AUX	VBZ	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	4	cop	_	_
+4	one	one	NUM	CD	NumType=Card	0	root	_	_
+5	of	of	ADP	IN	_	7	case	_	_
+6	the	the	DET	DT	Definite=Def|PronType=Art	7	det	_	_
+7	pillars	pillar	NOUN	NNS	Number=Plur	4	nmod	_	_
+8	of	of	ADP	IN	_	10	case	_	_
+9	modern	modern	ADJ	JJ	Degree=Pos	10	amod	_	_
+10	physics	physics	NOUN	NN	Number=Sing	7	nmod	_	_
+11	.	.	PUNCT	.	_	4	punct	_	_
+
+# sent_id = 47.0
+# text = The law was named after the German physicist Georg Ohm, who, in a treatise published in 1827, described measurements of applied voltage and current through simple electrical circuits containing various lengths of wire.
+1	The	the	DET	DT	Definite=Def|PronType=Art	2	det	_	_
+2	law	law	NOUN	NN	Number=Sing	4	nsubj:pass	_	_
+3	was	be	AUX	VBD	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	4	aux:pass	_	_
+4	named	name	VERB	VBN	Tense=Past|VerbForm=Part|Voice=Pass	0	root	_	_
+5	after	after	ADP	IN	_	8	case	_	_
+6	the	the	DET	DT	Definite=Def|PronType=Art	8	det	_	_
+7	German	German	ADJ	JJ	Degree=Pos	8	amod	_	_
+8	physicist	physicist	NOUN	NN	Number=Sing	4	obl	_	_
+9	Georg	Georg	PROPN	NNP	Number=Sing	8	appos	_	_
+10	Ohm	Ohm	PROPN	NNP	Number=Sing	9	flat	_	_
+11	,	,	PUNCT	,	_	8	punct	_	_
+12	who	who	PRON	WP	PronType=Rel	21	nsubj	_	_
+13	,	,	PUNCT	,	_	21	punct	_	_
+14	in	in	ADP	IN	_	16	case	_	_
+15	a	a	DET	DT	Definite=Ind|PronType=Art	16	det	_	_
+16	treatise	treatise	NOUN	NN	Number=Sing	21	obl	_	_
+17	published	publish	VERB	VBN	Tense=Past|VerbForm=Part	16	acl	_	_
+18	in	in	ADP	IN	_	19	case	_	_
+19	1827	1827	NUM	CD	NumForm=Digit|NumType=Card	17	obl	_	_
+20	,	,	PUNCT	,	_	16	punct	_	_
+21	described	describe	VERB	VBD	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	8	acl:relcl	_	_
+22	measurements	measurement	NOUN	NNS	Number=Plur	21	obj	_	_
+23	of	of	ADP	IN	_	25	case	_	_
+24	applied	apply	VERB	VBN	Tense=Past|VerbForm=Part	25	amod	_	_
+25	voltage	voltage	NOUN	NN	Number=Sing	22	nmod	_	_
+26	and	and	CCONJ	CC	_	27	cc	_	_
+27	current	current	ADJ	JJ	Degree=Pos	25	conj	_	_
+28	through	through	ADP	IN	_	31	case	_	_
+29	simple	simple	ADJ	JJ	Degree=Pos	31	amod	_	_
+30	electrical	electrical	ADJ	JJ	Degree=Pos	31	amod	_	_
+31	circuits	circuit	NOUN	NNS	Number=Plur	25	nmod	_	_
+32	containing	contain	VERB	VBG	VerbForm=Ger	31	acl	_	_
+33	various	various	ADJ	JJ	Degree=Pos	34	amod	_	_
+34	lengths	length	NOUN	NNS	Number=Plur	32	obj	_	_
+35	of	of	ADP	IN	_	36	case	_	_
+36	wire	wire	NOUN	NN	Number=Sing	34	nmod	_	_
+37	.	.	PUNCT	.	_	4	punct	_	_
+
+# sent_id = 48.0
+# text = Ohm explained his experimental results by a slightly more complex equation than the modern form above .
+1	Ohm	Ohm	PROPN	NNP	Number=Sing	2	nsubj	_	_
+2	explained	explain	VERB	VBD	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	0	root	_	_
+3	his	he	PRON	PRP$	Gender=Masc|Number=Sing|Person=3|Poss=Yes|PronType=Prs	5	nmod:poss	_	_
+4	experimental	experimental	ADJ	JJ	Degree=Pos	5	amod	_	_
+5	results	result	NOUN	NNS	Number=Plur	2	obj	_	_
+6	by	by	ADP	IN	_	11	case	_	_
+7	a	a	DET	DT	Definite=Ind|PronType=Art	11	det	_	_
+8	slightly	slightly	ADV	RB	_	9	advmod	_	_
+9	more	more	ADV	RBR	Degree=Cmp	10	advmod	_	_
+10	complex	complex	ADJ	JJ	Degree=Pos	11	amod	_	_
+11	equation	equation	NOUN	NN	Number=Sing	2	obl	_	_
+12	than	than	ADP	IN	_	15	case	_	_
+13	the	the	DET	DT	Definite=Def|PronType=Art	15	det	_	_
+14	modern	modern	ADJ	JJ	Degree=Pos	15	amod	_	_
+15	form	form	NOUN	NN	Number=Sing	11	nmod	_	_
+16	above	above	ADV	RB	_	15	advmod	_	_
+17	.	.	PUNCT	.	_	2	punct	_	_
+
+# sent_id = 49.0
+# text = In non-Newtonian fluids, viscosity can change when under force to either more liquid or more solid.
+1	In	in	ADP	IN	_	3	case	_	_
+2	non-Newtonian	non-Newtonian	ADJ	JJ	Degree=Pos	3	amod	_	_
+3	fluids	fluid	NOUN	NNS	Number=Plur	7	obl	_	_
+4	,	,	PUNCT	,	_	7	punct	_	_
+5	viscosity	viscosity	NOUN	NN	Number=Sing	7	nsubj	_	_
+6	can	can	AUX	MD	VerbForm=Fin	7	aux	_	_
+7	change	change	VERB	VB	VerbForm=Inf	0	root	_	_
+8	when	when	SCONJ	WRB	PronType=Int	10	mark	_	_
+9	under	under	ADP	IN	_	10	case	_	_
+10	force	force	NOUN	NN	Number=Sing	7	obl	_	_
+11	to	to	ADP	IN	_	14	case	_	_
+12	either	either	CCONJ	CC	_	14	cc:preconj	_	_
+13	more	more	ADV	RBR	Degree=Cmp	14	advmod	_	_
+14	liquid	liquid	ADJ	JJ	Degree=Pos	10	nmod	_	_
+15	or	or	CCONJ	CC	_	17	cc	_	_
+16	more	more	ADV	RBR	Degree=Cmp	17	advmod	_	_
+17	solid	solid	ADJ	JJ	Degree=Pos	14	conj	_	_
+18	.	.	PUNCT	.	_	7	punct	_	_
+
+# sent_id = 50.0
+# text = Ketchup, for example, becomes runnier when shaken and is thus a noobtaining information about the concentration of solutions of various materials such as brines, sugar solutions  and acids.
+1	Ketchup	ketchup	NOUN	NN	Number=Sing	6	nsubj	_	_
+2	,	,	PUNCT	,	_	6	punct	_	_
+3	for	for	ADP	IN	_	4	case	_	_
+4	example	example	NOUN	NN	Number=Sing	6	obl	_	_
+5	,	,	PUNCT	,	_	4	punct	_	_
+6	becomes	become	VERB	VBZ	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	_
+7	runnier	runnier	NOUN	NN	Number=Sing	6	xcomp	_	_
+8	when	when	SCONJ	WRB	PronType=Int	9	mark	_	_
+9	shaken	shake	VERB	VBN	Tense=Past|VerbForm=Part	6	advcl	_	_
+10	and	and	CCONJ	CC	_	15	cc	_	_
+11	is	be	AUX	VBZ	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	15	cop	_	_
+12	thus	thus	ADV	RB	_	15	advmod	_	_
+13	a	a	DET	DT	Definite=Ind|PronType=Art	15	det	_	_
+14	noobtaining	noobtain	VERB	VBG	VerbForm=Ger	15	amod	_	_
+15	information	information	NOUN	NN	Number=Sing	6	conj	_	_
+16	about	about	ADP	IN	_	18	case	_	_
+17	the	the	DET	DT	Definite=Def|PronType=Art	18	det	_	_
+18	concentration	concentration	NOUN	NN	Number=Sing	15	nmod	_	_
+19	of	of	ADP	IN	_	20	case	_	_
+20	solutions	solution	NOUN	NNS	Number=Plur	18	nmod	_	_
+21	of	of	ADP	IN	_	23	case	_	_
+22	various	various	ADJ	JJ	Degree=Pos	23	amod	_	_
+23	materials	material	NOUN	NNS	Number=Plur	20	nmod	_	_
+24	such	such	ADJ	JJ	Degree=Pos	26	case	_	_
+25	as	as	ADP	IN	_	24	fixed	_	_
+26	brines	brine	NOUN	NNS	Number=Plur	23	nmod	_	_
+27	,	,	PUNCT	,	_	29	punct	_	_
+28	sugar	sugar	NOUN	NN	Number=Sing	29	compound	_	_
+29	solutions	solution	NOUN	NNS	Number=Plur	26	conj	_	_
+30	and	and	CCONJ	CC	_	31	cc	_	_
+31	acids	acid	NOUN	NNS	Number=Plur	26	conj	_	_
+32	.	.	PUNCT	.	_	6	punct	_	_
+
+# sent_id = 51.0
+# text = Radio frequency  is the oscillation rate of an alternating electric current or voltage or of a magnetic, electric or electromagnetic field or mechanical system in the frequency range from around 20 kHz to around 300 GHz.
+1	Radio	Radio	NOUN	NN	Number=Sing	2	compound	_	_
+2	frequency	frequency	NOUN	NN	Number=Sing	6	nsubj	_	_
+3	is	be	AUX	VBZ	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	6	cop	_	_
+4	the	the	DET	DT	Definite=Def|PronType=Art	6	det	_	_
+5	oscillation	oscillation	NOUN	NN	Number=Sing	6	compound	_	_
+6	rate	rate	NOUN	NN	Number=Sing	0	root	_	_
+7	of	of	ADP	IN	_	11	case	_	_
+8	an	a	DET	DT	Definite=Ind|PronType=Art	11	det	_	_
+9	alternating	alternate	VERB	VBG	VerbForm=Ger	11	amod	_	_
+10	electric	electric	ADJ	JJ	Degree=Pos	11	amod	_	_
+11	current	current	NOUN	NN	Number=Sing	6	nmod	_	_
+12	or	or	CCONJ	CC	_	13	cc	_	_
+13	voltage	voltage	NOUN	NN	Number=Sing	11	conj	_	_
+14	or	or	CCONJ	CC	_	22	cc	_	_
+15	of	of	ADP	IN	_	22	case	_	_
+16	a	a	DET	DT	Definite=Ind|PronType=Art	22	det	_	_
+17	magnetic	magnetic	ADJ	JJ	Degree=Pos	22	amod	_	_
+18	,	,	PUNCT	,	_	19	punct	_	_
+19	electric	electric	ADJ	JJ	Degree=Pos	17	conj	_	_
+20	or	or	CCONJ	CC	_	21	cc	_	_
+21	electromagnetic	electromagnetic	ADJ	JJ	Degree=Pos	17	conj	_	_
+22	field	field	NOUN	NN	Number=Sing	11	conj	_	_
+23	or	or	CCONJ	CC	_	25	cc	_	_
+24	mechanical	mechanical	ADJ	JJ	Degree=Pos	25	amod	_	_
+25	system	system	NOUN	NN	Number=Sing	22	conj	_	_
+26	in	in	ADP	IN	_	29	case	_	_
+27	the	the	DET	DT	Definite=Def|PronType=Art	29	det	_	_
+28	frequency	frequency	NOUN	NN	Number=Sing	29	compound	_	_
+29	range	range	NOUN	NN	Number=Sing	22	nmod	_	_
+30	from	from	ADP	IN	_	33	case	_	_
+31	around	around	ADV	RB	_	32	advmod	_	_
+32	20	20	NUM	CD	NumType=Card	33	nummod	_	_
+33	kHz	khz	NOUN	NN	Number=Sing	29	nmod	_	_
+34	to	to	ADP	IN	_	37	case	_	_
+35	around	around	ADV	RB	_	36	advmod	_	_
+36	300	300	NUM	CD	NumType=Card	37	nummod	_	_
+37	GHz	GHz	NOUN	NN	Number=Sing	33	nmod	_	_
+38	.	.	PUNCT	.	_	6	punct	_	_
+
+# sent_id = 52.0
+# text = Different sources specify different upper and lower bounds for t of the vote, and Merkel was able to form a coalition government with the Free Democratic Party .
+1	Different	different	ADJ	JJ	Degree=Pos	2	amod	_	_
+2	sources	source	NOUN	NNS	Number=Plur	3	nsubj	_	_
+3	specify	specify	VERB	VBP	Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	_
+4	different	different	ADJ	JJ	Degree=Pos	8	amod	_	_
+5	upper	upper	ADJ	JJ	Degree=Pos	8	amod	_	_
+6	and	and	CCONJ	CC	_	7	cc	_	_
+7	lower	low	ADJ	JJR	Degree=Cmp	5	conj	_	_
+8	bounds	bound	NOUN	NNS	Number=Plur	3	obj	_	_
+9	for	for	ADP	IN	_	10	case	_	_
+10	t	t	NOUN	NN	Number=Sing	8	nmod	_	_
+11	of	of	ADP	IN	_	13	case	_	_
+12	the	the	DET	DT	Definite=Def|PronType=Art	13	det	_	_
+13	vote	vote	NOUN	NN	Number=Sing	10	nmod	_	_
+14	,	,	PUNCT	,	_	18	punct	_	_
+15	and	and	CCONJ	CC	_	18	cc	_	_
+16	Merkel	Merkel	PROPN	NNP	Number=Sing	18	nsubj	_	_
+17	was	be	AUX	VBD	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	18	cop	_	_
+18	able	able	ADJ	JJ	Degree=Pos	3	conj	_	_
+19	to	to	PART	TO	_	20	mark	_	_
+20	form	form	VERB	VB	VerbForm=Inf	18	xcomp	_	_
+21	a	a	DET	DT	Definite=Ind|PronType=Art	23	det	_	_
+22	coalition	coalition	NOUN	NN	Number=Sing	23	compound	_	_
+23	government	government	NOUN	NN	Number=Sing	20	obj	_	_
+24	with	with	ADP	IN	_	28	case	_	_
+25	the	the	DET	DT	Definite=Def|PronType=Art	28	det	_	_
+26	Free	free	ADJ	NNP	Degree=Pos	28	amod	_	_
+27	Democratic	Democratic	ADJ	NNP	Degree=Pos	28	amod	_	_
+28	Party	Party	PROPN	NNP	Number=Sing	23	nmod	_	_
+29	.	.	PUNCT	.	_	3	punct	_	_
+
+# sent_id = 53.0
+# text = At the 2017 federal election, Merkel led the CDU to become t and water.
+1	At	at	ADP	IN	_	5	case	_	_
+2	the	the	DET	DT	Definite=Def|PronType=Art	5	det	_	_
+3	2017	2017	NUM	CD	NumType=Card	5	compound	_	_
+4	federal	federal	ADJ	JJ	Degree=Pos	5	amod	_	_
+5	election	election	NOUN	NN	Number=Sing	8	obl	_	_
+6	,	,	PUNCT	,	_	5	punct	_	_
+7	Merkel	Merkel	PROPN	NNP	Number=Sing	8	nsubj	_	_
+8	led	lead	VERB	VBD	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	0	root	_	_
+9	the	the	DET	DT	Definite=Def|PronType=Art	10	det	_	_
+10	CDU	CDU	PROPN	NNP	Number=Sing	8	obj	_	_
+11	to	to	PART	TO	_	12	mark	_	_
+12	become	become	VERB	VB	VerbForm=Inf	8	advcl	_	_
+13	t	t	NOUN	NN	Number=Sing	12	xcomp	_	_
+14	and	and	CCONJ	CC	_	15	cc	_	_
+15	water	water	NOUN	NN	Number=Sing	13	conj	_	_
+16	.	.	PUNCT	.	_	8	punct	_	_
+
+# sent_id = 54.0
+# text = Quicksand forms in saturated loose sand when the sand is suddenly agitated.
+1	Quicksand	quicksand	NOUN	NN	Number=Sing	2	compound	_	_
+2	forms	form	NOUN	NNS	Number=Plur	0	root	_	_
+3	in	in	ADP	IN	_	6	case	_	_
+4	saturated	saturate	VERB	VBN	Tense=Past|VerbForm=Part	6	amod	_	_
+5	loose	loose	ADJ	JJ	Degree=Pos	6	amod	_	_
+6	sand	sand	NOUN	NN	Number=Sing	2	nmod	_	_
+7	when	when	SCONJ	WRB	PronType=Int	12	mark	_	_
+8	the	the	DET	DT	Definite=Def|PronType=Art	9	det	_	_
+9	sand	sand	NOUN	NN	Number=Sing	12	nsubj:pass	_	_
+10	is	be	AUX	VBZ	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	12	aux:pass	_	_
+11	suddenly	suddenly	ADV	RB	_	12	advmod	_	_
+12	agitated	agitate	VERB	VBN	Tense=Past|VerbForm=Part|Voice=Pass	2	acl	_	_
+13	.	.	PUNCT	.	_	2	punct	_	_
+
+# sent_id = 55.0
+# text = Quicksand can form in standing water or in upward flowing water .
+1	Quicksand	quicksand	NOUN	NN	Number=Sing	3	nsubj	_	_
+2	can	can	AUX	MD	VerbForm=Fin	3	aux	_	_
+3	form	form	VERB	VB	VerbForm=Inf	0	root	_	_
+4	in	in	ADP	IN	_	6	case	_	_
+5	standing	stand	VERB	VBG	VerbForm=Ger	6	amod	_	_
+6	water	water	NOUN	NN	Number=Sing	3	obl	_	_
+7	or	or	CCONJ	CC	_	11	cc	_	_
+8	in	in	ADP	IN	_	11	case	_	_
+9	upward	upward	ADJ	JJ	Degree=Pos	11	amod	_	_
+10	flowing	flow	VERB	VBG	VerbForm=Ger	11	amod	_	_
+11	water	water	NOUN	NN	Number=Sing	6	conj	_	_
+12	.	.	PUNCT	.	_	3	punct	_	_
+
+# sent_id = 56.0
+# text = In the case of upward flowing water,  forces oppose the force of gravity and suspend the soil particles.
+1	In	in	ADP	IN	_	3	case	_	_
+2	the	the	DET	DT	Definite=Def|PronType=Art	3	det	_	_
+3	case	case	NOUN	NN	Number=Sing	10	obl	_	_
+4	of	of	ADP	IN	_	7	case	_	_
+5	upward	upward	ADJ	JJ	Degree=Pos	7	amod	_	_
+6	flowing	flow	VERB	VBG	VerbForm=Ger	7	amod	_	_
+7	water	water	NOUN	NN	Number=Sing	3	nmod	_	_
+8	,	,	PUNCT	,	_	3	punct	_	_
+9	forces	force	NOUN	NNS	Number=Plur	10	nsubj	_	_
+10	oppose	oppose	VERB	VBP	Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	_
+11	the	the	DET	DT	Definite=Def|PronType=Art	12	det	_	_
+12	force	force	NOUN	NN	Number=Sing	10	obj	_	_
+13	of	of	ADP	IN	_	14	case	_	_
+14	gravity	gravity	NOUN	NN	Number=Sing	12	nmod	_	_
+15	and	and	CCONJ	CC	_	16	cc	_	_
+16	suspend	suspend	VERB	VB	VerbForm=Inf	10	conj	_	_
+17	the	the	DET	DT	Definite=Def|PronType=Art	19	det	_	_
+18	soil	soil	NOUN	NN	Number=Sing	19	compound	_	_
+19	particles	particle	NOUN	NNS	Number=Plur	16	obj	_	_
+20	.	.	PUNCT	.	_	10	punct	_	_
+
+# sent_id = 57.0
+# text = The saturated sediment may appear quite solid until a sue he was still a graduate student.
+1	The	the	DET	DT	Definite=Def|PronType=Art	3	det	_	_
+2	saturated	saturate	VERB	VBN	Tense=Past|VerbForm=Part	3	amod	_	_
+3	sediment	sediment	NOUN	NN	Number=Sing	5	nsubj	_	_
+4	may	may	AUX	MD	VerbForm=Fin	5	aux	_	_
+5	appear	appear	VERB	VB	VerbForm=Inf	0	root	_	_
+6	quite	quite	ADV	RB	_	7	advmod	_	_
+7	solid	solid	ADJ	JJ	Degree=Pos	5	xcomp	_	_
+8	until	until	ADP	IN	_	10	case	_	_
+9	a	a	DET	DT	Definite=Ind|PronType=Art	10	det	_	_
+10	sue	sue	NOUN	NN	Number=Sing	7	obl	_	_
+11	he	he	PRON	PRP	Case=Nom|Gender=Masc|Number=Sing|Person=3|PronType=Prs	16	nsubj	_	_
+12	was	be	AUX	VBD	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	16	cop	_	_
+13	still	still	ADV	RB	_	16	advmod	_	_
+14	a	a	DET	DT	Definite=Ind|PronType=Art	16	det	_	_
+15	graduate	graduate	ADJ	JJ	Degree=Pos	16	amod	_	_
+16	student	student	NOUN	NN	Number=Sing	10	acl:relcl	_	_
+17	.	.	PUNCT	.	_	5	punct	_	_
+
+# sent_id = 58.0
+# text = He was 19 years of age when he joined the Indian Finance Service in Calcutta as Assistant Accountant General.
+1	He	he	PRON	PRP	Case=Nom|Gender=Masc|Number=Sing|Person=3|PronType=Prs	4	nsubj	_	_
+2	was	be	AUX	VBD	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	4	cop	_	_
+3	19	19	NUM	CD	NumType=Card	4	nummod	_	_
+4	years	year	NOUN	NNS	Number=Plur	0	root	_	_
+5	of	of	ADP	IN	_	6	case	_	_
+6	age	age	NOUN	NN	Number=Sing	4	nmod	_	_
+7	when	when	SCONJ	WRB	PronType=Int	9	mark	_	_
+8	he	he	PRON	PRP	Case=Nom|Gender=Masc|Number=Sing|Person=3|PronType=Prs	9	nsubj	_	_
+9	joined	join	VERB	VBD	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	4	advcl	_	_
+10	the	the	DET	DT	Definite=Def|PronType=Art	13	det	_	_
+11	Indian	Indian	ADJ	NNP	Degree=Pos	12	amod	_	_
+12	Finance	Finance	PROPN	NNP	Number=Sing	13	compound	_	_
+13	Service	Service	PROPN	NNP	Number=Sing	9	obj	_	_
+14	in	in	ADP	IN	_	15	case	_	_
+15	Calcutta	Calcutta	PROPN	NNP	Number=Sing	9	obl	_	_
+16	as	as	ADP	IN	_	19	case	_	_
+17	Assistant	Assistant	PROPN	NNP	Number=Sing	19	compound	_	_
+18	Accountant	Accountant	PROPN	NNP	Number=Sing	19	compound	_	_
+19	General	General	PROPN	NNP	Number=Sing	9	obl	_	_
+20	.	.	PUNCT	.	_	4	punct	_	_
+
+# sent_id = 59.0
+# text = There he became acquainted with the Indian Association for the Cultivation of Science , the first research institute in India, which allowed him to do independent research and where he made his major contributions in acoustics and optics.
+1	There	there	ADV	RB	PronType=Dem	3	advmod	_	_
+2	he	he	PRON	PRP	Case=Nom|Gender=Masc|Number=Sing|Person=3|PronType=Prs	3	nsubj	_	_
+3	became	become	VERB	VBD	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	0	root	_	_
+4	acquainted	acquainted	VERB	VBN	Tense=Past|VerbForm=Part	3	xcomp	_	_
+5	with	with	ADP	IN	_	8	case	_	_
+6	the	the	DET	DT	Definite=Def|PronType=Art	8	det	_	_
+7	Indian	Indian	ADJ	NNP	Degree=Pos	8	amod	_	_
+8	Association	Association	PROPN	NNP	Number=Sing	4	obl	_	_
+9	for	for	ADP	IN	_	11	case	_	_
+10	the	the	DET	DT	Definite=Def|PronType=Art	11	det	_	_
+11	Cultivation	Cultivation	PROPN	NNP	Number=Sing	4	obl	_	_
+12	of	of	ADP	IN	_	13	case	_	_
+13	Science	Science	PROPN	NNP	Number=Sing	11	nmod	_	_
+14	,	,	PUNCT	,	_	18	punct	_	_
+15	the	the	DET	DT	Definite=Def|PronType=Art	18	det	_	_
+16	first	first	ADJ	JJ	Degree=Pos|NumType=Ord	18	amod	_	_
+17	research	research	NOUN	NN	Number=Sing	18	compound	_	_
+18	institute	institute	NOUN	NN	Number=Sing	11	appos	_	_
+19	in	in	ADP	IN	_	20	case	_	_
+20	India	India	PROPN	NNP	Number=Sing	18	nmod	_	_
+21	,	,	PUNCT	,	_	23	punct	_	_
+22	which	which	PRON	WDT	PronType=Rel	23	nsubj	_	_
+23	allowed	allow	VERB	VBD	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	18	acl:relcl	_	_
+24	him	he	PRON	PRP	Case=Acc|Gender=Masc|Number=Sing|Person=3|PronType=Prs	23	obj	_	_
+25	to	to	PART	TO	_	26	mark	_	_
+26	do	do	VERB	VB	VerbForm=Inf	23	xcomp	_	_
+27	independent	independent	ADJ	JJ	Degree=Pos	28	amod	_	_
+28	research	research	NOUN	NN	Number=Sing	26	obj	_	_
+29	and	and	CCONJ	CC	_	32	cc	_	_
+30	where	where	SCONJ	WRB	PronType=Rel	32	mark	_	_
+31	he	he	PRON	PRP	Case=Nom|Gender=Masc|Number=Sing|Person=3|PronType=Prs	32	nsubj	_	_
+32	made	make	VERB	VBD	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	26	conj	_	_
+33	his	he	PRON	PRP$	Gender=Masc|Number=Sing|Person=3|Poss=Yes|PronType=Prs	35	nmod:poss	_	_
+34	major	major	ADJ	JJ	Degree=Pos	35	amod	_	_
+35	contributions	contribution	NOUN	NNS	Number=Plur	32	obj	_	_
+36	in	in	ADP	IN	_	37	case	_	_
+37	acoustics	acoustic	NOUN	NNS	Number=Plur	35	nmod	_	_
+38	and	and	CCONJ	CC	_	39	cc	_	_
+39	optics	optic	NOUN	NNS	Number=Plur	37	conj	_	_
+40	.	.	PUNCT	.	_	3	punct	_	_
+
